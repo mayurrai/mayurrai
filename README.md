@@ -1,31 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mayur Rai</h1>
-<h3 align="center">🚀 Passionate Software Engineer | HR Expert | Content Writer | MS Office Pro 📈</h3>
+# Mayur Rai
 
+🚀 Passionate Software Engineer | HR Expert | Content Writer | MS Office Pro 📈
 
-<img align="right" alt="coding" width="400" scr="https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=747DF8D95E85CE2CC04F281CB6211E2B48C97D7D&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&exph=428&expw=680&q=animated+coding+gif&simid=607995081319337607&FORM=IRPRST&ck=E1845CDFC81102F61EF20CC425518278&selectedIndex=16">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrai&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrai" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=mayurrai&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/mayurrai?style=social)](https://github.com/mayurrai)
+[![Twitter](https://img.shields.io/twitter/follow/_mayur_x?style=social)](https://twitter.com/_mayur_x)
 
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrai&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrai" /> </p>
+Hello everyone! My name is Mayur, and I'm a software engineering student at Lovely Professional University. I have a strong background in computer science, and I'm always eager to learn new skills. I enjoy working with languages like C, C++, Python, Java, HTML, CSS, and JavaScript. I'm also interested in data structures and algorithms.
 
-- 📫 How to reach me **mayurrai2003@gmail.com**
+## Skills
 
-- ⚡ Fun fact **I think I'm funny 😂😂**
+![C](https://img.shields.io/badge/C-Expert-blue?style=flat-square&logo=c&logoColor=white&color=blue)
+![C++](https://img.shields.io/badge/C++-Expert-brightgreen?style=flat-square&logo=c%2B%2B&logoColor=white&color=brightgreen)
+![Python](https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white&color=yellow)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=flat-square&logo=java&logoColor=white&color=orange)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-red?style=flat-square&logo=html5&logoColor=white&color=red)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=flat-square&logo=css3&logoColor=white&color=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_mayur_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mayur_x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsmayurrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmayurrai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mayur rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayur rai" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_mayurri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_mayurri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayurrai2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayurrai2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mayurrai2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayurrai2003" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mayurrai2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mayurrai2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mayur1275uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayur1275uv" height="30" width="40" /></a>
-<a href="https://discord.gg/3813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3813" height="30" width="40" /></a>
-</p>
+## Education
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+- Bachelor of Technology - BTech, Computer Science and Engineering, Lovely Professional University (2021 - 2025)
+- Higher Secondary Certificate (HSC), St.Paul Junior College Nagpur (2019 - 2021)
+- Secondary School Certificate (SSC), Lala Kailashpat Singhania High School Chhindwara (2007 - 2019)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurrai&show_icons=true&locale=en" alt="mayurrai" /></p>
+## Certifications
+
+![HR Management](https://img.shields.io/badge/HR%20Management-Great%20Learning-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-HackerRank-blue?style=flat-square)
+![WinterFEST 2022](https://img.shields.io/badge/WinterFEST%202022-GDSC%20VIT%20Bhopal-blueviolet?style=flat-square)
+![Routing Configuration](https://img.shields.io/badge/Routing%20Configuration-Coursera-blueviolet?style=flat-square)
+![Computer Networking](https://img.shields.io/badge/Computer%20Networking-Udemy-yellow?style=flat-square)
+
+## Projects
+
+- AI in Cloud Computing
+- Java mini-project (Book Management System)
+- Java mini-project (Calculator on CLI)
+- Art gallery management Database system
+- Simple Maths based Captcha using Python
+- HTML/CSS project: Love with Baking website
+
+## Volunteer Experience
+
+- Co-Organizer, Student Organization OASIS
+- Campus Ambassador, International Model United Nations Association (IMUNA)
+- Event Organizer, LPU School of Computer Science Engineering
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsmayurrai)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mayurrai2003@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/_mayur_x)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mayurrai)
+
+I'm excited to connect, learn, and grow together. Let's embark on this journey of knowledge and exploration! 🚀
